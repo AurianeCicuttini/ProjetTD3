@@ -1,6 +1,6 @@
-#TEST COMMIT
+conflitclonflit#TEST COMMIT
 salut Git, t'es gentil Git
-<<<<<<< HEAD
+
 
 
 Bonjour Artur, bienvenue 
