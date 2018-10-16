@@ -1,5 +1,5 @@
 Contributors:
-Arthur
+Arth
 conflitclonflit#TEST COMMIT
 salut Git, t'es gentil Git
 
